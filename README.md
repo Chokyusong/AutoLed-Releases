@@ -3,6 +3,8 @@
 AutoLed는 오닉소프트(ONICSOFT)가 만든 **인터넷 방송 자동화 프로그램**(Windows 앱)입니다.
 BJ 후원 알림이 뜨면 정해 둔 OBS 장면 전환, LED 화면, 조명·카메라, 배경음악 음소거를 자동으로 실행하고, 연출이 끝나면 원래 화면으로 돌려놓습니다. 개인방송·엑셀방송·크루방송에서 씁니다.
 
+[![AutoLed 방송 자동화 프로그램 실행 화면과 후원 연출 장면](https://onicsoft.co.kr/assets/autoled-og.jpg)](https://onicsoft.co.kr/autoled.html)
+
 - 공식 페이지: https://onicsoft.co.kr/autoled.html
 - 방송 자동화 소개: https://onicsoft.co.kr/broadcast-automation.html
 - 문의: 카카오톡 채널 https://pf.kakao.com/_exgErX/chat
